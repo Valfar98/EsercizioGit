@@ -4,3 +4,5 @@ test 2
 Modifica branch fastForward
 
 Modifica branch recursiveBranch
+
+Modifica branch conflictBranch
