@@ -5,4 +5,6 @@ Modifica branch fastForward
 
 Modifica branch recursiveBranch
 
-Modifica branch master
+
+Modifica branch conflictBranch
+
